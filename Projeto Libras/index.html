@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo de Libras</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="teaching-phase" style="display: none;">
+        <div id="teaching-letter">Letra</div>
+        <img id="teaching-sign" src="" alt="Sinal">
+        <button id="next-letter">Próxima Letra</button>
+    </div>
+
+    <div id="question-phase" style="display: none;">
+        <div id="current-letter">Letra</div>
+        <div id="cards-container"></div>
+    </div>
+
+    <div id="status-display">
+        <p>Pontuação: <span id="score">0</span></p>
+        <p>Coins: <span id="coins">0</span></p>
+        <p>Tempo: <span id="timer">60</span></p>
+    </div>
+
+    <button id="start-teaching">Iniciar Ensino</button>
+    <button id="start-game" style="display: none;">Iniciar Jogo</button>
+
+    <script src="main.js"></script>
+</body>
+</html>
