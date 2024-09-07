@@ -18,3 +18,6 @@ HTML, CSS, JavaScript com Google IDX e Google Gemini
 Educação Inclusiva: Promover o aprendizado da Língua Brasileira de Sinais para crianças, jovens e adultos, de maneira acessível e intuitiva.
 Gamificação do Aprendizado: Usar elementos de jogos para tornar o aprendizado mais engajador e divertido.
 Sensibilização: Aumentar a conscientização sobre a importância de Libras como um meio de comunicação vital para a comunidade surda.
+
+
+![image](https://github.com/user-attachments/assets/f220f6cf-aa02-4f60-99f5-cca74ea7bd60)
